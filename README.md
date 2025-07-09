@@ -1,4 +1,4 @@
-### Hi, I'm Kingoros!
+### Hi, I'm Milani!
 **`An Aspiring Developer for the undiscovered Potential of AI`**
 
 🧑‍💻 AI Engineer sharing my learning journey and continually striving for improvement!
@@ -7,3 +7,6 @@
 
 💬 Currently learning about Computer Hardware and Software, Principles of Computer Programming and Systems Analysis and Design.
 
+Current Projects:
+Re-implementing Papers. Current Paper: Attention is all you need.
+Fine Tuning an Open source LLM. Current LLM is Llama.
